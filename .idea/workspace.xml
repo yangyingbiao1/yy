@@ -1,13 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="955a2b32-df14-4adc-bd3a-c0ec2d066f11" name="Default Changelist" comment="" />
+    <list default="true" id="955a2b32-df14-4adc-bd3a-c0ec2d066f11" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="yangyingbiao1 &lt;yyhr2017@outlook.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1W7BzZHcD0mkdj7EQbw7lGZsN7e" />
@@ -17,11 +24,23 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="settings.editor.selected.configurable" value="application.passwordSafe" />
+  </component>
+  <component name="RunManager">
+    <configuration name="YyUserManagerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="yy-user-manage" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yy.user.YyUserManagerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -45,17 +64,43 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1578491016004</updated>
-      <workItem from="1578491020577" duration="603000" />
+      <workItem from="1578491020577" duration="1300000" />
     </task>
+    <task id="LOCAL-00001" summary="第一次">
+      <created>1578491770217</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1578491770217</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="第一次" />
+    <option name="LAST_COMMIT_MESSAGE" value="第一次" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="372" y="13" key="CommitChangelistDialog2" timestamp="1578491628473">
+    <state x="372" y="13" key="CommitChangelistDialog2" timestamp="1578491769156">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="372" y="13" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1578491628473" />
+    <state x="372" y="13" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1578491769156" />
+    <state x="270" y="59" key="SettingsEditor" timestamp="1578491850552">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="270" y="59" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1578491850552" />
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2" timestamp="1578491794986">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1578491794986" />
+    <state x="178" y="112" key="new project wizard" timestamp="1578492142367">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="178" y="112" key="new project wizard/0.0.1536.834@0.0.1536.834" timestamp="1578492142367" />
   </component>
 </project>
