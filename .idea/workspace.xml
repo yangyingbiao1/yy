@@ -1,11 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="955a2b32-df14-4adc-bd3a-c0ec2d066f11" name="Default Changelist" comment="" />
+    <list default="true" id="955a2b32-df14-4adc-bd3a-c0ec2d066f11" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_persistence_persistence_api_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__tk_mybatis_mapper_3_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__tk_mybatis_mapper_spring_boot_autoconfigure_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__tk_mybatis_mapper_spring_boot_starter_1_2_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yy-user-manage/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/yy-user-manage/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yy-user-manage/src/main/java/com/yy/user/YyUserManagerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/yy-user-manage/src/main/java/com/yy/user/YyUserManagerApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yy-user-manage/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/yy-user-manage/src/main/resources/application.properties" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
@@ -16,6 +33,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1W7BzZHcD0mkdj7EQbw7lGZsN7e" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -24,12 +44,18 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="settings.editor.selected.configurable" value="application.passwordSafe" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
   <component name="RunManager">
     <configuration name="YyUserManagerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
@@ -62,7 +88,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1578491016004</updated>
-      <workItem from="1578491020577" duration="1617000" />
+      <workItem from="1578491020577" duration="5807000" />
+      <workItem from="1578497109629" duration="3063000" />
+      <workItem from="1578500365151" duration="2504000" />
     </task>
     <task id="LOCAL-00001" summary="第一次">
       <created>1578491770217</created>
@@ -78,7 +106,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578492635560</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="第二次">
+      <created>1578492683250</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1578492683250</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -92,21 +127,76 @@
     <option name="LAST_COMMIT_MESSAGE" value="第二次" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="372" y="13" key="CommitChangelistDialog2" timestamp="1578492634221">
+    <state x="574" y="127" key="#com.intellij.ide.util.MemberChooser" timestamp="1578502034799">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="372" y="13" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1578492634221" />
-    <state x="270" y="59" key="SettingsEditor" timestamp="1578491850552">
+    <state x="574" y="127" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1578502034799" />
+    <state x="451" y="342" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1578496406818">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="270" y="59" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1578491850552" />
-    <state x="361" y="150" key="Vcs.Push.Dialog.v2" timestamp="1578491794986">
+    <state x="451" y="342" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.834@0.0.1536.834" timestamp="1578496406818" />
+    <state x="499" y="164" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1578495899973">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1578491794986" />
+    <state x="499" y="164" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.834@0.0.1536.834" timestamp="1578495899973" />
+    <state x="372" y="13" key="CommitChangelistDialog2" timestamp="1578492682462">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="372" y="13" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1578492682462" />
+    <state width="1493" height="213" key="GridCell.Tab.0.bottom" timestamp="1578502336819">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="213" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1578502336819" />
+    <state width="1493" height="213" key="GridCell.Tab.0.center" timestamp="1578502336819">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="213" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1578502336819" />
+    <state width="1493" height="213" key="GridCell.Tab.0.left" timestamp="1578502336818">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="213" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1578502336818" />
+    <state width="1493" height="213" key="GridCell.Tab.0.right" timestamp="1578502336819">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="213" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1578502336819" />
+    <state width="1493" height="213" key="GridCell.Tab.1.bottom" timestamp="1578502336820">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="213" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1578502336820" />
+    <state width="1493" height="213" key="GridCell.Tab.1.center" timestamp="1578502336819">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="213" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1578502336819" />
+    <state width="1493" height="213" key="GridCell.Tab.1.left" timestamp="1578502336819">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="213" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1578502336819" />
+    <state width="1493" height="213" key="GridCell.Tab.1.right" timestamp="1578502336820">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="213" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1578502336820" />
+    <state x="270" y="59" key="SettingsEditor" timestamp="1578495583125">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="270" y="59" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1578495583125" />
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2" timestamp="1578502902401">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1578502902401" />
     <state x="178" y="112" key="new project wizard" timestamp="1578492142367">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="178" y="112" key="new project wizard/0.0.1536.834@0.0.1536.834" timestamp="1578492142367" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/yy-user-manage/src/main/java/com/yy/user/service/impl/UserServiceImpl.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
