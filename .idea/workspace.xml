@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="955a2b32-df14-4adc-bd3a-c0ec2d066f11" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="955a2b32-df14-4adc-bd3a-c0ec2d066f11" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,7 +62,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1578491016004</updated>
-      <workItem from="1578491020577" duration="1300000" />
+      <workItem from="1578491020577" duration="1617000" />
     </task>
     <task id="LOCAL-00001" summary="第一次">
       <created>1578491770217</created>
@@ -73,7 +71,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578491770217</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="第二次">
+      <created>1578492635560</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1578492635560</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -83,13 +88,14 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="第一次" />
-    <option name="LAST_COMMIT_MESSAGE" value="第一次" />
+    <MESSAGE value="第二次" />
+    <option name="LAST_COMMIT_MESSAGE" value="第二次" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="372" y="13" key="CommitChangelistDialog2" timestamp="1578491769156">
+    <state x="372" y="13" key="CommitChangelistDialog2" timestamp="1578492634221">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="372" y="13" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1578491769156" />
+    <state x="372" y="13" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1578492634221" />
     <state x="270" y="59" key="SettingsEditor" timestamp="1578491850552">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
